@@ -1,0 +1,8 @@
+# ignore node dependency files
+node_modules
+package-lock.jazon
+
+# ignore OS generated files
+.DS_Store
+Thumbs.db
+
